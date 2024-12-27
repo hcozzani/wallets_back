@@ -1,0 +1,25 @@
+Para debug:
+
+spring-boot:run "-Dspring-boot.run.jvmArguments=-Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=y,address=5005"
+
+-------------------------------
+
+para dirigirse a la aplicacion
+
+http://localhost:8080/api/docs
+
+------------------------------
+para autenticar en swagger (actuales):
+
+ADMIN:
+{
+  "email": "pepe.gimenez@yopmail.com",
+  "password": "Pepe@2024Gimenez!"
+}
+
+USER:
+{
+  "email": "pedro.ruiz@yopmail.com",
+  "password": "Pedro!2024Ruiz#"
+}
+
