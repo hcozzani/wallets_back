@@ -1,5 +1,4 @@
-# BBVA-FS-W5-Back-S2
-Repositorio Back Squad 2 | BBVA Fullstack Wave 5.
+### Descripción del Proyecto: Backend de Wallets para Semillero BBVA en Argentina
 
 ## Equipo de Trabajo
 
@@ -9,6 +8,9 @@ Repositorio Back Squad 2 | BBVA Fullstack Wave 5.
   - Cozzani, Hugo
   - Ottoboni, Matias
   - Pereira, Martin
+
+#### Link del Repositorio Frontend  
+[GitHub - Wallets Backend](https://github.com/hcozzani/wallets_front)  
 
 ### Notas:
 - **Usuarios Admin:** Los primeros 5 usuarios están asignados como **Admin**.
